@@ -1,2 +1,2 @@
-# rajathalex.github.io
-My Personal Portfolio Website.
+# ashwath129.github.io
+My simple Portfolio Website.
